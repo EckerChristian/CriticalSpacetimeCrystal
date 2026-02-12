@@ -1,6 +1,6 @@
 # Critical Spacetime Crystals
 
-This repository accompanies the paper *“Critical spacetime crystals in continuous dimensions”* (https://arxiv.org/abs/2602.xxxxx).
+This repository accompanies the paper *“Critical spacetime crystals in continuous dimensions”* (https://arxiv.org/abs/2602.10185).
 
 It contains the data files and plotting script (`plots/plots.ipynb`) used to reproduce the figures presented in the paper.
 
